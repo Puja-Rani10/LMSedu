@@ -1,0 +1,605 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+      /*header start*/
+       header{
+     border-bottom:1px solid #880000;
+    }
+     .menu ul li {
+	    margin: 0 0 0 0 !important;
+	    padding-left: 2px !important;
+	    text-align: right;
+    }
+     /*header end*/
+     /*banner start*/
+     .banner{
+	   height: 400px;
+     }
+     .b-1 h1 {
+       padding: 20px 0 7px 0;
+       font-size: 20px;
+    }
+    .b-1 p{
+	     margin: 0 0 15px 0;
+	     font-size: 15px;
+    }
+    .b-1 button{
+	     width: 140px;
+	    height: 40px;
+	    padding: 0 !important;
+	    font-size: 14px;
+       font-weight: 300;
+	  }
+     /*banner end*/
+      /*course start*/
+     .course {
+       padding-top: 30px;
+       padding-bottom: 30px;
+    }
+      .c-c{
+      margin-bottom: 40px;
+     }
+    .box{
+       padding: 30px 30px;
+ 
+    }
+     .c-c h2{
+        font-size: 22px;
+        border-bottom:none;
+    }
+      .c-content{
+      margin: 20px  0 0;
+     }
+     .box p {
+       font-size: 16px;
+    }
+    .c-icon i {
+       font-size: 25px;
+    }
+     /*course end*/
+     /*top start*/
+    .top {
+      padding-top: 45px;
+      padding-bottom: 40px;
+    }
+    .t-content {
+      text-align: center;
+      margin-bottom: 28px;
+    }
+    .t-1 h1{
+      font-size: 25px;
+     
+    }
+    .t-1 p{
+     font-size: 15px;
+     
+    }
+    .t-2{
+      margin-top:0; 
+     }
+    .t-2 button{
+      /*text-align: center;*/
+      width: 100px;
+      height: 40px;
+     font-size: 13px;
+    
+    }
+    .s-content h5 {
+       padding:5px 0 10px 0;
+    }
+    .s-content p{
+      line-height: 20px;
+    }
+    .s-content h4{
+     font-size: 22px;
+    }
+     /*top end*/
+     /*discover*/
+     .discover{
+
+     padding: 40px 0 40px 0;
+    }
+     .d-content {
+       margin-bottom: 40px;
+       text-align: center;
+    }
+    .d-content h1{
+      font-size: 25px;
+     }
+     .d-content p{
+          font-size: 15px;
+     }
+     .d-d{
+      text-align: center;
+      margin-top: 20px;
+     }
+     .bto-1 {
+       width: 300px;
+       height: 60px;
+      font-size: 16px;
+     }
+    .bto-2 {
+      width: 300px;
+      height: 60px;
+      font-size: 16px;
+    }
+    .bto-3 {
+      width: 300px;
+      height: 60px;
+      font-size: 16px;
+   }
+    /*seller start*/
+     .seller{
+      padding-top: 45px;
+      padding-bottom: 40px; 
+     }
+     /*seller end*/
+     /*goals start*/
+     .goal{
+      padding: 40px 0 40px 0;
+     }
+     .g-g1{
+      text-align: center;
+     }
+     .g-content h1{
+        font-size: 25px;
+      }
+      .g-content p{
+        font-size: 15px;
+      }
+     .g-content{
+      margin-bottom: 30px;
+     }
+     .g-go{
+      margin-top: 15px;
+      padding: 45px 25px;
+     }
+     .g-go i{
+       font-size: 40px;
+     }
+    .g-go h5 {
+    padding: 20px 0 10px 0;
+    }
+    .g-go p{
+      letter-spacing: 0.5px;
+    }
+     /*goals end*/
+     /*client start*/
+     .client{
+      padding:40px 0 40px 0;
+     }
+     .cg-content{
+        margin-bottom: 38px;
+      }
+      .cg-content h1{
+        font-size: 25px;
+      }
+      .cg-content p{
+        font-size: 15px;
+      }
+     .c-1 p {
+       padding: 20px 20px 20px 20px;
+       letter-spacing: 0;
+      }
+      .c-s1{
+        text-align: center;
+       }
+      .c-l1{
+        text-align: center;
+
+      }
+     /*client end*/
+     /*trust*/
+     .trust{
+      padding:40px 0 40px 0;
+     }
+     /*trust*/
+     /*blog*/
+     .blog{
+      padding:0;
+     }
+     /*blog*/
+     /*submit*/
+     .submit{
+      padding: 40px 0 40px 0;
+      }
+      .sub-h{
+       padding-bottom: 30px;
+       font-size: 25px;
+       letter-spacing: 1px; 
+      }
+      .search-w{
+         width: 300px;
+      }
+     .search-w .search-box{
+       position: relative;
+       width: 300px;
+       height: 40px;
+
+       }
+       .search-w .search-box .btn{
+       width: 100px;
+        
+       }
+     /*submit*/
+     .ft-1{
+      text-align: center;
+      margin-bottom: 50px;
+     }
+     .ff-1{
+       padding-top: 30px;
+
+      }
+      .ft-2{
+      text-align: center;
+      margin-bottom: 20px;
+     }
+     /*footer end*/
+}
+
+
+ /*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+       /*header start*/
+       header{
+     border-bottom:1px solid #880000;
+    }
+     .menu ul li {
+	 margin: 0 0 0 0 !important;
+	 padding-left: 2px !important;
+	 text-align: right;
+    }
+     /*header end*/
+     /*banner start*/
+     
+     .banner{
+	   height: 400px;
+     }
+     .b-1 h1 {
+        padding: 30px 0 10px 0;
+        font-size: 25px;
+   
+    }
+    .b-1 p{
+	margin: 0 0 15px 0;
+	font-size: 16px;
+    }
+    .b-1 button{
+	width: 140px;
+	height: 40px;
+	padding: 0 !important;
+	font-size: 14px;
+    font-weight: 300;
+	}
+     /*banner end*/
+      /*course start*/
+     .course {
+       padding-top: 30px;
+       padding-bottom: 30px;
+    }
+    .c-c{
+      margin-bottom: 40px;
+     }
+    .box{
+     padding: 30px 30px;
+ 
+    }
+     .c-c h2{
+        font-size: 22px;
+        border-bottom:none;
+    }
+    .c-content{
+      margin: 20px  0 0;
+     }
+    .box p {
+       font-size: 16px;
+    }
+     .c-icon i {
+       font-size: 25px;
+    }
+     /*course end*/
+     /*top start*/
+    .top {
+      padding-top: 45px;
+      padding-bottom: 40px;
+    }
+    .t-content {
+      text-align: center;
+      margin-bottom: 28px;
+    }
+    .t-1 h1{
+      font-size: 25px;
+    }
+    .t-1 p{
+     font-size: 15px;
+    }
+    .t-2 {
+    margin-top: 20px;
+    }
+    .t-2 button{
+
+      width: 100px;
+      height: 40px;
+     font-size: 13px;
+    
+    }
+    .s-content h5 {
+       padding:5px 0 10px 0;
+    }
+    .s-content p{
+      line-height: 20px;
+    }
+    .s-content h4{
+     font-size: 22px;
+    }
+     /*top end*/
+     /*discover*/
+      .discover{
+
+     padding: 40px 0 40px 0;
+    }
+     .d-content {
+    margin-bottom: 40px;
+    text-align: center;
+     }
+     .d-content h1{
+      font-size: 25px;
+     }
+     .d-content p{
+          font-size: 15px;
+     }
+
+     .d-d{
+      text-align: center;
+      margin-top: 20px;
+     }
+     .bto-1{
+      font-size: 17px;
+     }
+     .bto-2{
+      font-size: 17px;
+     }
+     .bto-3{
+      font-size: 17px;
+     }
+     /*seller start*/
+     .seller{
+      padding-top: 45px;
+      padding-bottom: 40px; 
+     }
+     /*seller end*/
+     /*goals start*/
+     .goal{
+      padding: 40px 0 40px 0;
+     }
+     .g-content{
+      margin-bottom: 30px;
+     }
+     .g-content h1{
+        font-size: 25px;
+      }
+      .g-content p{
+        font-size: 15px;
+      }
+     .g-go{
+      margin-top: 15px;
+      padding: 45px 25px;
+     }
+     .g-go i{
+       font-size: 40px;
+     }
+    .g-go h5 {
+    padding: 20px 0 10px 0;
+    }
+    .g-go p{
+      letter-spacing: 0.5px;
+    }
+
+     /*goals end*/
+     /*client start*/
+     .client{
+      padding:40px 0 40px 0;
+     }
+     .cg-content{
+        margin-bottom: 38px;
+      }
+      .cg-content h1{
+        font-size: 25px;
+      }
+      .cg-content p{
+        font-size: 15px;
+      }
+     .c-1 p {
+       padding: 20px 20px 20px 20px;
+       letter-spacing: 2px;
+      }
+
+     /*client end*/
+     /*trust*/
+     .trust{
+      padding:40px 0 40px 0;
+     }
+     /*trust*/
+     /*blog*/
+     .blog{
+      padding: 0;
+     }
+     /*blog*/
+     /*submit*/
+     .submit{
+      padding: 40px 0 40px 0;
+      }
+      .search-w{
+         width: 500px;
+      }
+     .search-w .search-box{
+       position: relative;
+       width: 500px;
+       height: 50px;
+
+       }
+     /*submit*/
+      /*footer start*/
+     .ft-1{
+      text-align: center;
+      margin-bottom: 50px;
+     }
+      .ff-1{
+       padding-top: 30px;
+
+      }
+      .ft-2{
+      text-align: center;
+      margin-bottom: 20px;
+     }
+     /*footer end*/
+
+
+}
+
+ /*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+     /*header start*/
+     .menu ul li {
+	 margin: 0 0 0 0 !important;
+	 padding-left: 2px !important;
+	 text-align: right;
+    }
+     /*header end*/
+     /*course start*/
+     .course {
+       padding-top: 50px;
+       padding-bottom: 80px;
+    }
+    .box{
+     padding: 50px 30px;
+ 
+    }
+     .c-c h2{
+   
+        border-bottom:none;
+    }
+    
+    
+     /*course end*/
+     /*top start*/
+    .top {
+      padding-top: 65px;
+      padding-bottom: 60px;
+    }
+    .t-content {
+    margin-bottom: 48px;
+    }
+     /*top end*/
+     /*discover*/
+     
+     .d-content {
+
+    margin-bottom: 40px;
+     }
+     .d-d{
+      text-align: center;
+      margin-top: 20px;
+     }
+     /*seller start*/
+     .seller{
+       padding-top: 65px;
+       padding-bottom: 60px; 
+    }
+     /*seller end*/
+     /*client start*/
+     .cg-content{
+        margin-bottom: 48px;
+      }
+     .c-1 p {
+       padding: 20px 20px 20px 20px;
+       letter-spacing: 0;
+      }
+      .c-l1 {
+        padding-left: 0;
+      }
+     .c-2 video{
+        width:300px; 
+        height:230px;
+     }
+     /*client end*/
+     /*trust*/
+     .trust{
+      padding:40px 0 40px 0;;
+     }
+     /*trust*/
+     /*blog*/
+     .blog{
+      padding: 0;
+     }
+     /*footer start*/
+     .ft-1{
+      text-align: center;
+      margin-bottom: 50px;
+     }
+     .ft-2{
+      text-align: center;
+      margin-bottom: 20px;
+     }
+     /*footer end*/
+
+
+}
+
+ /*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+      
+}
+
+ /*Extra extra large devices (large desktops, 1400px and up)*/
+@media (min-width: 1400px) {
+	  .logo-s{
+       
+        font-size: 41px;
+        
+    }
+      .logo-s1{
+ 	
+        font-size: 41px;
+   
+    }
+    .menu ul li a{
+	   font-size: 22px !important;
+    }
+    /*course*/
+    .s-content h5 {
+    letter-spacing: 3px;
+   }
+   /*discover*/
+   .d-d1{
+    padding-left: 30px;
+   }
+
+   .d-d{
+    padding: 0;
+    text-align: center;
+   }
+   .bto-1 {
+    width: 376px;
+    height: 80px;
+   }
+    .bto-2 {
+    width: 376px;
+    height: 80px;
+   }
+    .bto-3 {
+    width: 376px;
+    height: 80px;
+   }
+   /*submit*/
+    .submit{
+     background-repeat:no-repeat;
+     background-size: cover;
+     background-position: center;
+    }
+    
+}
